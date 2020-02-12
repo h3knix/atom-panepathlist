@@ -1,7 +1,7 @@
 {
   "name": "panepathlist",
   "main": "./lib/panepathlist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lists open pane file project paths",
   "keywords": [
     "tab project path list",
