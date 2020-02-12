@@ -1,0 +1,22 @@
+{
+  "menu": [
+  {
+    "label": "Packages",
+    "submenu": [
+      {
+        "label": "Pane Path List",
+        "submenu": [
+          {
+            "label": "Generate List",
+            "command": "panepathlist:generatelist"
+          }
+          ,{
+            "label": "Open List",
+            "command": "panepathlist:openlist"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
